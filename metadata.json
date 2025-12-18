@@ -1,0 +1,8 @@
+{
+  "name": "BHVR Starter Kit",
+  "description": "A high-performance SaaS starter kit built with Bun, Hono, Vite, and React. Features a comprehensive landing page, advanced authentication flows, and a feature-rich e-commerce dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
